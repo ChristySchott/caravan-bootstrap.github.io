@@ -20,8 +20,9 @@ Esse projeto foi desenvolvido no curso Bootstrap da Origamid, logo a principal f
 
 Layout: 
 
-![Layout do projeto](https://github.com/ChristySchott/caravan-bootstrap.github.io/blob/master/layout/layout1.png)
-![Layout do projeto](https://github.com/ChristySchott/caravan-bootstrap.github.io/blob/master/layout/layout2.png)
+![Layout do projeto](https://github.com/ChristySchott/caravan-bootstrap.github.io/blob/master/layout/layout1.PNG)
+![Layout do projeto](https://github.com/ChristySchott/caravan-bootstrap.github.io/blob/master/layout/layout2.PNG)
+![Layout do projeto](https://github.com/ChristySchott/caravan-bootstrap.github.io/blob/master/layout/layout3.PNG)
 
 
 ### Aprendizados:
